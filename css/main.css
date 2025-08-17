@@ -4,6 +4,13 @@
     margin: 0;
     padding: 0;
 }
+@media (min-width: 992px){
+   .header{
+    max-width: 90%;
+   }
+
+}
+
 
 body {
     font-family: 'Inter', sans-serif;
