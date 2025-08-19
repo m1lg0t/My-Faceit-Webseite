@@ -7,6 +7,10 @@
 @media screen and (min-width: 992px) {
    .header {
     width: 970px;
+    padding: 20px;
+   }
+   div.container {
+    width: 970px;
    }
 }
 
