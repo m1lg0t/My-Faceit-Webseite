@@ -5,7 +5,7 @@
     padding: 0;
 }
 @media screen and (min-width: 992px) {
-    nav.container {
+    .cover {
     width: 970px;
     padding: 20px;
    }
