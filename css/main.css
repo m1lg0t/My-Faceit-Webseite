@@ -4,9 +4,10 @@
     margin: 0;
     padding: 0;
 }
-@media (min-width: 992px){
-   .container {
-    padding: 40px;
+@media screen and (min-width: 992px) {
+   .header {
+    padding-left: 40px;
+    padding-right: 40px;
    }
 }
 
