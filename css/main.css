@@ -6,10 +6,10 @@
 }
 @media screen and (min-width: 992px) {
    .header {
-    width: 970px;
+    width: 980px;
    }
    div.hero {
-    width: 970px;
+    width: 980px;
    }
 }
 
