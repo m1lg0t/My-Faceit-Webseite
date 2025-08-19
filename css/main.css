@@ -5,6 +5,10 @@
     padding: 0;
 }
 @media screen and (min-width: 992px) {
+   .cover {
+    width: 970px;
+    padding: 20px;
+   }
    .header {
     width: 970px;
     padding: 20px;
