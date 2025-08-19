@@ -6,10 +6,7 @@
 }
 @media screen and (min-width: 992px) {
    .header {
-    width: 980px;
-   }
-   div.container {
-    width: 980px;
+    width: 970px;
    }
 }
 
