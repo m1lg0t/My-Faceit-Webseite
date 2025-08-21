@@ -30,7 +30,9 @@
     position: static;
     width: 60%;
     margin-top: 20px;
+    float: none;
     }
+
 }
 
 @media (min-width: 640px){
@@ -123,7 +125,8 @@ header nav ul li.button a:hover {
 }
 
 .hero--info {
-    width: 600px;
+    width: auto;
+    max-width: 100%;
     padding-top: 160px;
 }
 
@@ -194,12 +197,15 @@ header nav ul li.button a:hover {
     font-size: 40px;
     font-weight: 600;
     text-align: center;
-    width: 800px;
+    width: auto;
+    max-width: 100%;
 }
 
 .banner {
     position: relative;
     padding: 80px 0;
+    width: auto;
+    max-width: 100%;
 }
 
 .banner h3 {
