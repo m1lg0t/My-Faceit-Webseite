@@ -121,15 +121,15 @@ header nav ul li.button a:hover {
 }
 
 .hero {
-    padding-bottom: 400px;
-    position: relative;
-    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 100px 0;
 }
 
 .hero--info {
-    width: auto;
     max-width: 600px;
-    padding-top: 160px;
     flex: 1;
 }
 
