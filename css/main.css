@@ -131,7 +131,6 @@ header nav ul li.button a:hover {
 .hero--info {
     max-width: 600px;
     flex: 1;
-    float: right;
 }
 
 .hero--info h2 {
@@ -172,7 +171,6 @@ header nav ul li.button a:hover {
     max-width: 400px;
     height: auto;
     flex: 1;
-    float: right;
 }
 
 .allgames {
