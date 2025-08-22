@@ -15,7 +15,7 @@
     justify-content: center;
     gap: 15px;
     }
-    header nav{
+    header nav {
         width: auto;
         float: none;
     }
@@ -25,12 +25,14 @@
         align-items: center;
         padding-bottom: 100px;
         text-align: center;
+        padding: 50px 0 ;
     }
-    .hero img{
-    position: static;
+    .hero img {
     width: 60%;
     margin-top: 20px;
-    float: none;
+    }
+    .hero--info {
+        max-width: 100%;
     }
 
 }
@@ -126,8 +128,9 @@ header nav ul li.button a:hover {
 
 .hero--info {
     width: auto;
-    max-width: 100%;
+    max-width: 600px;
     padding-top: 160px;
+    flex: 1;
 }
 
 .hero--info h2 {
@@ -164,9 +167,12 @@ header nav ul li.button a:hover {
 }
 
 .hero img {
-    position: absolute;
+    position: static;
     top: 90px;
     right: 0;
+    max-width: 400px;
+    height: auto;
+    flex: 1;
 }
 
 .allgames {
