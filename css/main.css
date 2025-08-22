@@ -28,8 +28,8 @@
         padding: 50px 0 ;
     }
     .hero img {
-    width: 60%;
-    margin-top: 20px;
+    width: 260px;
+    height: auto;
     }
     .hero--info {
         max-width: 100%;
