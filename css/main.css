@@ -168,8 +168,6 @@ header nav ul li.button a:hover {
 
 .hero img {
     position: static;
-    top: 90px;
-    right: 0;
     max-width: 400px;
     height: auto;
     flex: 1;
